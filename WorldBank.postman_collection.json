@@ -1,0 +1,43 @@
+{
+  "info": {
+    "_postman_id": "1c1574e9-4d4a-4cc5-83b2-65d452e1f30a",
+    "name": "WorldBank",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "31207191",
+    "_collection_link": "https://go.postman.co/collection/31207191-1c1574e9-4d4a-4cc5-83b2-65d452e1f30a?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Create Package",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Initial Version",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Start Approval Process",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Process",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
